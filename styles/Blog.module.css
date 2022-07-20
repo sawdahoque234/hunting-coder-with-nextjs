@@ -1,0 +1,38 @@
+.main {
+  padding: 1rem 0;
+  display: flex;
+  justify-self: center;
+  align-items: center;
+}
+.container {
+  padding: 0 2rem;
+}
+.blogpost {
+  display: block;
+  margin: auto;
+  padding: 4rem;
+  max-width: 45vw;
+  cursor: pointer;
+}
+
+.title {
+  margin: 0;
+  font-size: 3rem;
+  color: blue;
+}
+.subtitle {
+  margin: 0;
+  font-size: 2rem;
+
+  max-width: 45vw;
+  color: crimson;
+}
+@media screen and (min-width: 480px) {
+  .blogpost {
+    display: block;
+    margin: auto;
+    padding: 1rem;
+    max-width: auto;
+    cursor: pointer;
+  }
+}

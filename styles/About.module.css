@@ -1,0 +1,14 @@
+.container {
+  padding: 0 3rem;
+  margin: 0 5rem;
+}
+.p {
+  width: 60%;
+  margin: auto;
+}
+@media screen and (min-width: 480px) {
+  .container {
+    padding: 0 1rem;
+    margin: 0 1rem;
+  }
+}

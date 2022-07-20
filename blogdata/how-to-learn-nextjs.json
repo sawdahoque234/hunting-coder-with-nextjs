@@ -1,0 +1,8 @@
+{
+    "title":"How to learn Next.js",
+    "content":"Next.js is an open-source web development framework built on top of Node.js enabling React-based web applications functionalities such as server-side rendering and generating static websites.React can be easier to learn as compared to NextJS. The web apps built using NextJS are very fast. The web apps built using ReactJS are slow as compared to NextJS. Next doesn't require offline support.",
+    "metadesc":"Next.js is an open-source web development framework built on top of Node.js enabling React-based web applications functionalities such as server-side rendering and generating static websites.React can be easier to learn as compared to NextJS. ",
+    "author":"Sawda Hoq.",
+    "slug":"how-to-learn-nextjs"
+
+}
